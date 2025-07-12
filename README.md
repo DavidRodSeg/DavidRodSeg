@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi there, I'm David
+
+I'm a Physics graduate and Junior AI Researcher.  
+
+I don't have many projects here yet, but I'm working on it!
 
 <!--
 **DavidRodSeg/DavidRodSeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
