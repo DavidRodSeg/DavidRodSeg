@@ -1,20 +1,38 @@
-## 👋 Hi there, I'm David
+## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="32" height="32"></picture> Hi!
 
-I'm a Physics graduate and Junior AI Researcher.  
+I’m David, a physics graduate with a master’s degree in AI and data science. On this GitHub, you’ll find research-oriented repositories mainly focused on data science, although I maintain a strong interest in returning to physics research.
 
-I don't have many projects here yet, but I'm working on it!
+#### Tech stack:
+| **Category** | **Tools** |
+|----------|-------|
+| Development | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Databases | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) |
+| Cloud | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
+| AI / Data Science | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| CI / CD | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-<!--
-**DavidRodSeg/DavidRodSeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- #### Tech stack:
+| **Category** | **Tools** |
+|----------|-------|
+| Development | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| Databases | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white) |
+| Cloud | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) |
+| AI / Data Science | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
+| CI / CD | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- #### Topics I'm comfortable with: -->
+
+#### Currently exploring:
+- Quantification learning
+- Docker and GitHub Actions.
+- KQL
+<!-- - AI agents -->
+
+
+#### Some projects:
+- [MRISegmentation](https://github.com/DavidRodSeg/MRISegmentation)  
+  *MRI segmentation using pretrained DeepLabV3 model and AGResUNet arquitecture.*
+- [ZeroShotQuantification](https://github.com/DavidRodSeg/ZeroShotQuantification)  
+  *Study of the plausibility of combining quantification and zero-shot algorithms.*
