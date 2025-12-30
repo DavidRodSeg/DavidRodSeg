@@ -11,25 +11,10 @@ I’m David, a physics graduate with a master’s degree in AI and data science.
 | AI / Data Science | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
 | CI / CD | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-<!-- #### Tech stack:
-| **Category** | **Tools** |
-|----------|-------|
-| Development | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| Databases | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white) |
-| Cloud | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) |
-| AI / Data Science | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
-| CI / CD | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | -->
-
-
-
-<!-- #### Topics I'm comfortable with: -->
-
 #### Currently exploring:
 - Quantification learning
 - Docker and GitHub Actions.
 - KQL
-<!-- - AI agents -->
-
 
 #### Some projects:
 - [MRISegmentation](https://github.com/DavidRodSeg/MRISegmentation)  
